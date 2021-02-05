@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "noImplicitAny": true,
+    "sourceMap": true,
+    "module": "es6",
+    "target": "es5",
+    "jsx": "react",
+    "preserveConstEnums": true,
+    "allowJs": true,
+    "strictNullChecks": true,
+    "typeRoots": [
+      "./node_modules/phaser/types"
+    ],
+    "types": [
+      "Phaser"
+    ],
+  },
+  "include": [
+    "**/*.ts"
+  ],
+}
+  
