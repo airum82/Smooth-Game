@@ -1,0 +1,29 @@
+{
+	"frames": {
+		"NewHero_01.png": {
+			"frame": {"x":15, "y":0, "w":10, "h":15},
+			"spriteSourceSize": {"x":0,"y":0,"w":10,"h":15},
+			"sourceSize": {"w":10,"h":15}
+		},
+		"NewHero_02.png": {
+			"frame": {"x":12, "y":16, "w":11, "h":15},
+			"spriteSourceSize": {"x":0,"y":0,"w":11,"h":15},
+			"sourceSize": {"w":11,"h":15}
+		},
+		"NewHero_03.png": {
+			"frame": {"x":0, "y":16, "w":11, "h":15},
+			"spriteSourceSize": {"x":0,"y":0,"w":11,"h":15},
+			"sourceSize": {"w":11,"h":15}
+		},
+		"NewHero_04.png": {
+			"frame": {"x":0, "y":0, "w":14, "h":15},
+			"spriteSourceSize": {"x":0,"y":0,"w":14,"h":15},
+			"sourceSize": {"w":14,"h":15}
+		}
+	},
+	"meta": {
+		"image": "sprites.png",
+		"size": {"w": 26, "h": 32},
+		"scale": "1"
+	}
+}

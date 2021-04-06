@@ -19,6 +19,12 @@ module.exports = {
         test: /\.(png|svg|jpg|jpeg|gif)$/i,
         use: 'file-loader',
       },
+      {
+        test: /\.json$/,
+        use: ['json-loader'],
+        type: 'javascript/auto',
+        exclude: /node_modules/,
+      },
     ],
   },
   resolve: {
